@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
+    <AssemblyName>BerkC.DictionaryToExcelWithTabSheets</AssemblyName>
+    <RootNamespace>BerkC.DictionaryToExcelWithTabSheets</RootNamespace>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>key.pfx</AssemblyOriginatorKeyFile>
+
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <FileVersion>1.0.0</FileVersion>
+    <Version>1.0.0</Version>
+    <Company>Berk Cinaz</Company>
+    <Authors>Berk Cinaz</Authors>
+    <Copyright>Berk Cinaz 2023</Copyright>
+    <PackageId>BerkC.DictionaryToExcelWithTabSheets</PackageId>
+    <Product>DictionaryToExcelWithTabSheets</Product>
+    <Title>DictionaryToExcelWithTabSheets</Title>
+    <Description>Forked from Leonid Salavatov's ArrayToExcel and Ugurhan Gul's DictionaryToExcel</Description>
+    <PackageTags>dictionary excel xlsx dictionary2excel arraytoexcel convert map mapping c# csharp</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryType>git</RepositoryType>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <NeutralLanguage />
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.12.0" />
+  </ItemGroup>
+
+</Project>
