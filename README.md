@@ -1,3 +1,5 @@
+# [BerkC.DictionaryToExcelWithTabSheets](https://www.nuget.org/packages/BerkC.DictionaryToExcelWithTabSheets/1.0.0) [![NuGet version](https://badge.fury.io/nu/BerkC.DictionaryToExcelWithTabSheets.svg)](https://badge.fury.io/nu/BerkC.DictionaryToExcelWithTabSheets)
+
 Create Excel from Dictionary With Tab Sheets
 Forked from https://github.com/ugurhangul/DictionaryToExcel Thanks to Ugurhan Gul
 And also thanks to Leonid Salavatov https://github.com/mustaddon/ArrayToExcel 
